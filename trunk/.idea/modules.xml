@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/es-client/es-client.iml" filepath="$PROJECT_DIR$/es-client/es-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es-common/es-common.iml" filepath="$PROJECT_DIR$/es-common/es-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es-core/es-core.iml" filepath="$PROJECT_DIR$/es-core/es-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es-httpagent/es-httpagent.iml" filepath="$PROJECT_DIR$/es-httpagent/es-httpagent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es-server/es-server.iml" filepath="$PROJECT_DIR$/es-server/es-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es-webagent/es-webagent.iml" filepath="$PROJECT_DIR$/es-webagent/es-webagent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eschedule.iml" filepath="$PROJECT_DIR$/eschedule.iml" />
+    </modules>
+  </component>
+</project>

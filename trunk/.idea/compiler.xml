@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="es-client" />
+        <module name="es-common" />
+        <module name="es-core" />
+        <module name="es-httpagent" />
+        <module name="es-server" />
+        <module name="es-webagent" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="es-client" target="1.6" />
+      <module name="es-common" target="1.6" />
+      <module name="es-core" target="1.6" />
+      <module name="es-httpagent" target="1.6" />
+      <module name="es-server" target="1.6" />
+      <module name="es-webagent" target="1.6" />
+      <module name="eschedule" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
